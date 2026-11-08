@@ -27,8 +27,8 @@ SQL로 찾아 분석 기준을 설계한다.
 - 도구: DataGrip
 - 데이터 파일은 저장소에 포함하지 않습니다. 위 링크에서 받아 `sql/00_create_raw.sql`의 순서대로 적재합니다.
 
-<!-- TODO: ERD 이미지를 docs/erd.png로 넣고 아래 줄의 주석을 해제하세요. -->
-<!-- ![ERD](docs/erd.png) -->
+<img width="789" height="1006" alt="image" src="https://github.com/user-attachments/assets/c3ff86a7-5c0d-4040-a8be-d549108f19a8" />
+
 
 ## 분석 기준
 
